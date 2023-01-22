@@ -14,6 +14,8 @@ const CONFIG = {
     mess: 'K mún j cả 🥰. xin chào cậu thoy 😘😘',
     messDesc: 'ò!!!',
     btnAccept: 'Mong mọi điều thuận lợi sẽ đến với c trong năm mới. Nếu c muốn tìm một người để chia sẻ mọi chuyện trong năm tới, t vẫn luôn ở đây.<3',
+    reply: 'rốt cuộc bạn muốn cái gì ?',
+    mess: 'K mún j cả 🥰. xin chào cậu thoy 😘😘',
     messLink: 'https://www.facebook.com/luu.nguyethuong.7' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
 
